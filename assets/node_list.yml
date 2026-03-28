@@ -1,0 +1,34 @@
+-
+  uri: xmr-node.cakewallet.com:18081
+  is_default: true
+  trusted: true
+  useSSL: true
+  isEnabledForAutoSwitching: true
+-
+  uri: cakexmrl7bonq7ovjka5kuwuyd3f7qnkz6z6s6dmsy3uckwra7bvggyd.onion:18081
+  is_default: false
+-
+  uri: node.sethforprivacy.com:443
+  useSSL: true
+  is_default: false
+  isEnabledForAutoSwitching: true
+-
+  uri: node.monerodevs.org:18089
+  useSSL: true
+  is_default: false
+-
+  uri: node2.monerodevs.org:18089
+  useSSL: true
+  is_default: false
+-
+  uri: node3.monerodevs.org:18089
+  useSSL: true
+  is_default: false
+-
+  uri: selsta1.featherwallet.net:18081
+  useSSL: true
+  is_default: false
+-
+  uri: xmr.stormycloud.org:18089
+  useSSL: true
+  is_default: false

@@ -1,0 +1,34 @@
+-
+  uri: nano.nownodes.io
+  useSSL: true
+  isEnabledForAutoSwitching: true
+-
+  uri: rpc.nano.to
+  is_default: true
+  useSSL: true
+  isEnabledForAutoSwitching: true
+-
+  uri: node.nautilus.io
+  path: /api
+  useSSL: true
+  isEnabledForAutoSwitching: true
+-
+  uri: app.natrium.io
+  path: /api
+  useSSL: true
+-
+  uri: rainstorm.city
+  path: /api
+  useSSL: true
+-
+  uri: node.somenano.com
+  path: /proxy
+  useSSL: true
+-
+  uri: nanoslo.0x.no
+  path: /proxy
+  useSSL: true
+-
+  uri: www.bitrequest.app
+  port: 8020
+  useSSL: true
